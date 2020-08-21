@@ -1,0 +1,55 @@
+<style type="text/css">
+
+.hd {
+    color: #ff9900;
+    font-weight: bold;
+    width: 1000px; 
+    padding: 5px;
+    float: left;
+}
+
+.hd2 {
+    font-size: 30pt;
+    font-weight: bold;
+    width: 1000px; 
+    padding: 5px;
+    float: left;
+}
+
+.tem {
+    color: #ff9900;
+    font-weight: bold;
+    width: 300px; 
+    padding: 5px; 
+    float: right; 
+}
+
+.tem2 {
+    color: #ff9900;
+    font-weight: bold;
+    width: 800px; 
+    padding: 20px; 
+    float: left; 
+}
+
+.set {
+    width: 200pt; 
+    padding: 0px; 
+    float: right; 
+}
+
+.list {
+    padding: 20px;
+    width: 500px; 
+    clear: left; 
+}
+
+.prop {
+    padding: 20px;
+    width: 300px; 
+    clear: left; 
+}
+
+</style>
+
+
